@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "vitest.explorer",
+        "deinsoftware.testing-library-snippets",
+        "kingwl.vscode-vitest-runner",
+        "deinsoftware.vitest-snippets"
+    ]
+}
